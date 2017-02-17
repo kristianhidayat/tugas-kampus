@@ -1,4 +1,4 @@
 Tugas Kampus
-Nama : Rizky aditya
+Nama : kristian hidayatullah
 Jurusan : Informatika
 Matkul : Algoritma C++
